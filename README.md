@@ -2,7 +2,7 @@
 - 👀 I’m interested in CODING
 - 🌱 I’m currently learning how to code a website
 - 💞️ I’m looking to collaborate on web creation
-- 📫 How to reach me X - @cyclxne_w3b
+- 📫 How to reach me X - @cyclone2x10
 - 😄 Pronouns: HE
 - ⚡ Fun fact: I write code that not only works but occasionally smiles back at me in the form of a perfectly aligned div!
 
